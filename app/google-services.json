@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1063202666057",
+    "firebase_url": "https://restaurant-roulette-6f286.firebaseio.com",
+    "project_id": "restaurant-roulette-6f286",
+    "storage_bucket": "restaurant-roulette-6f286.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063202666057:android:42f5f728c6795671",
+        "android_client_info": {
+          "package_name": "com.example.lukas.restaurantroulette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063202666057-un45grru7del97q7r3hq3g5ge4tok351.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lukas.restaurantroulette",
+            "certificate_hash": "57f509695eee96623ade6cb9fbccf9f233fa84f4"
+          }
+        },
+        {
+          "client_id": "1063202666057-9opr3dnrle88kt7ortn4oduritgcg4of.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lukas.restaurantroulette",
+            "certificate_hash": "63507e284f130f789bd2e4cd69372ddd0b901dfc"
+          }
+        },
+        {
+          "client_id": "1063202666057-eu8n1jhk3ksa3pmi881qf8irr7l8neti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Xj2Z1Wh2MKk3btrJXwBPfdiJFJoM62A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063202666057-eu8n1jhk3ksa3pmi881qf8irr7l8neti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
